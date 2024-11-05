@@ -179,7 +179,6 @@ PyQt5-Qt5==5.15.2
 PyQt5-sip==12.9.0
 pyqt5-plugins==5.15.9.2.3
 pyqt5-tools==5.15.4.3.2
-PyQt5Designer==5.15.4 
 PyRect==0.2.0
 pyresparser==1.0.6
 pyrsistent==0.19.3
